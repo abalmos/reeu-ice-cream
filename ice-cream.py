@@ -13,7 +13,8 @@ q \
     .filter('group_desc', 'DAIRY') \
     .filter('commodity_desc', 'ICE CREAM') \
     .filter('agg_level_desc', 'STATE') \
-    .filter('freq_desc', 'MONTHLY')
+    .filter('freq_desc', 'MONTHLY') \
+    .filter('state_alpha', 'IN') \
 
 print("Number of records", q.count())
 
