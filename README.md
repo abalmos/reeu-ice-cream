@@ -6,7 +6,7 @@ production by month in Indiana.
 Data source: https://quickstats.nass.usda.gov
 
 _Caution:_ I am not Python programmer. I'm quite certain this is not
-\*'pythonic' ... but it works!
+'pythonic' ... but it works!
 
 # How to run
 
